@@ -9,5 +9,19 @@
         "name": "Gustavo Rodriguez Liccioni"
     },
     "items": [
+        {
+            "id": "https://www.liccioni.net/first-post.html",
+            "url": "https://www.liccioni.net/first-post.html",
+            "title": "First Post",
+            "summary": "My first post",
+            "content_html": "<p>My first post</p>",
+            "author": {
+                "name": "Gustavo Rodriguez Liccioni"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-14T21:49:57+01:00",
+            "date_modified": "2023-03-14T21:49:57+01:00"
+        }
     ]
 }

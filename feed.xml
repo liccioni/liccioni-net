@@ -3,10 +3,30 @@
     <title>liccioni</title>
     <link href="https://www.liccioni.net/feed.xml" rel="self" />
     <link href="https://www.liccioni.net" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2023-03-14T21:49:57+01:00</updated>
     <author>
         <name>Gustavo Rodriguez Liccioni</name>
     </author>
     <id>https://www.liccioni.net</id>
 
+    <entry>
+        <title>First Post</title>
+        <author>
+            <name>Gustavo Rodriguez Liccioni</name>
+        </author>
+        <link href="https://www.liccioni.net/first-post.html"/>
+        <id>https://www.liccioni.net/first-post.html</id>
+
+        <updated>2023-03-14T21:49:57+01:00</updated>
+            <summary>
+                <![CDATA[
+                    My first post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>My first post</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
