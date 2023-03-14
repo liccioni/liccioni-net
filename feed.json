@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://www.liccioni.net/second-post.html",
+            "url": "https://www.liccioni.net/second-post.html",
+            "title": "Second Post",
+            "summary": "My Second Post",
+            "content_html": "<p>My Second Post</p>",
+            "author": {
+                "name": "Gustavo Rodriguez Liccioni"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-14T21:54:19+01:00",
+            "date_modified": "2023-03-14T21:54:19+01:00"
+        },
+        {
             "id": "https://www.liccioni.net/first-post.html",
             "url": "https://www.liccioni.net/first-post.html",
             "title": "First Post",

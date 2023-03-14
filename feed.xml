@@ -3,12 +3,32 @@
     <title>liccioni</title>
     <link href="https://www.liccioni.net/feed.xml" rel="self" />
     <link href="https://www.liccioni.net" />
-    <updated>2023-03-14T21:49:57+01:00</updated>
+    <updated>2023-03-14T21:54:19+01:00</updated>
     <author>
         <name>Gustavo Rodriguez Liccioni</name>
     </author>
     <id>https://www.liccioni.net</id>
 
+    <entry>
+        <title>Second Post</title>
+        <author>
+            <name>Gustavo Rodriguez Liccioni</name>
+        </author>
+        <link href="https://www.liccioni.net/second-post.html"/>
+        <id>https://www.liccioni.net/second-post.html</id>
+
+        <updated>2023-03-14T21:54:19+01:00</updated>
+            <summary>
+                <![CDATA[
+                    My Second Post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>My Second Post</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>First Post</title>
         <author>
